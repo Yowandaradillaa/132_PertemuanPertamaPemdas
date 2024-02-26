@@ -14,6 +14,7 @@ int main()
         
     double nJejari, nLuas;
     cout << "Masukan Jejari= ";
+
     system("pause");
 }
 
